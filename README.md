@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Majeed</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://msaadmajeed.netlify.app/](https://msaadmajeed.netlify.app/)
 
